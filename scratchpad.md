@@ -24,3 +24,27 @@ https://tv.algora.io/docs/streaming/overlays
 
 - [YouTube Data Analytics Tools](https://github.com/DannyIbo/youtube-data-analytics-tools)
 - [Fully Automated Youtube Channel](https://github.com/ss-d3v/BotTuber)
+
+[Simple Icons](https://simpleicons.org/?q=discord)
+
+
+## WorkFlows
+### Wikis, Tasks, and Notes
+
+#### Taskwarrior
+- https://github.com/kdheepak/taskwarrior-tui
+- https://github.com/tools-life/taskwiki
+- https://www.reddit.com/r/taskwarrior/comments/1jdioag/is_it_worth_getting_into_taskwarrior/
+- https://github.com/kostajh/taskwarrior-time-tracking-hook
+- https://github.com/tools-life/taskwiki
+- https://taskwarrior.org/docs/themes/
+
+#### VimWiki
+- https://github.com/tools-life/taskwiki
+
+
+#### Other:
+- https://nvim-orgmode.github.io/installation
+- https://github.com/nvim-neorg/neorg
+- https://github.com/chipsenkbeil/vimwiki.nvim
+- https://dev.to/psiho/vimwiki-how-to-automate-wikis-per-project-folder-neovim-3k72
